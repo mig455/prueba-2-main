@@ -1,0 +1,12 @@
+.o-container{
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.o-container--task{
+    min-height: 300px;
+}
+.chacked{
+    text-decoration: line-through; color: gray;
+}
